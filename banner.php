@@ -63,28 +63,23 @@ div.clr {color:rgb(226, 220, 216);}
                <li class="active" ><a href="./"><div class="clr">Make your own account now!</div></a></li>
             </form>
          </ul> --> 
-		 		 <!-- USER  
-         <ul class="nav navbar-nav navbar-right ">
-              <li><img src="avatar.png" alt="Image" height="42" width="42"></li>
-			  <li class="dropdown">
-               <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Account <b class="caret"></b></a>
-               <ul class="dropdown-menu">
-                  <li><a href="#">Profile</a></li>
-                  <li><a href="#">Ask a question</a></li>
-                  <li class="divider"></li>
-                  <li><a href="#">Sign Out</a></li>
-               </ul>
-            </li>
-         </ul>--> 
       		 		 <!-- Admin  -->
          <ul class="nav navbar-nav navbar-right ">
-              
-			  <li class="dropdown">
+			<li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Alerts (3)</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">User joaom answered your question!</a></li>
+                  <li><a href="#">User diogo commented your answer!</a></li>
+				  <li><a href="#">The question "How do you use a computer?" needs your help!</a></li>
+
+               </ul>
+            </li>
+			<li class="dropdown">
                <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Account <b class="caret"></b></a>
                <ul class="dropdown-menu">
                   <li><a href="#">Profile</a></li>
                   <li><a href="#">Ask a question</a></li>
-				  <li><a href="#">Manage Users</a></li>
+				  <li><a href="#">Manage Users</a></li><!--admin-->
                   <li class="divider"></li>
                   <li><a href="#">Sign Out</a></li>
                </ul>
