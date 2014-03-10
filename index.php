@@ -18,7 +18,7 @@
     <link href="css/offcanvas.css" rel="stylesheet">
 	<link href="css/justified-nav.css" rel="stylesheet">
     <link href="css/lavish-bootstrap.css" rel="stylesheet">
-	<link href="css/variables.less" rel="stylesheet">
+	<link href="less/variables.less" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -31,8 +31,7 @@
   </head>
 
   <body>
- <!-- Fixed navbar -->
-<?php include 'banner.php'; ?>
+    <?php include 'banner.php'; ?>
 
     <div class="container">
 

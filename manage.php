@@ -36,9 +36,172 @@
 
     <div class="container">
 
-      <div class="row row-offcanvas row-offcanvas-right">
+<h1>User Management</h1>
+<h1><button class="btn btn-lg btn-primary" type="submit">Create User</button></h1></br>
+	<table class="table">
+	  <tr><th>Username</th><th>First Name</th><th>Last Name</th><th>Date of Birth</th><th>Gender</th><th>Email</th><th>Country</th><th>Privileges</th></tr>
+	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admin</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Moderator</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+				  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>	  <tr><td>Username</td><td>First Name</td><td>Last Name</td><td>Date of Birth</td><td>Gender</td><td>Email</td><td>Country</td><td><li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">User</a>
+               <ul class="dropdown-menu">
+                  <li><a href="#">Admin</a></li>
+                  <li><a href="#">Moderator</a></li>
+				  <li><a href="#">User</a></li>
+               </ul>
+            </li></td><td><a class="btn btn-primary btn-sm" href="#"></i>Delete</a> <a class="btn btn-primary btn-sm" href="#"></i>Edit</a></td></tr>
+			
+			
+	</table>
 
-       
+
+
+	   
+	 </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
