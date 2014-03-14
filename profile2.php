@@ -98,6 +98,7 @@
                     <div class="col-sm-6 col-md-8">
                         <h4>
                             Capitão América</h4>
+							<img class="media-object" src="badge.png" width="55" title="200+ points">Score: 231<br><br>
                         <small>
                         <p>
 							<i class="glyphicon glyphicon-user"></i> <input type="text" value="Cpt_America">
